@@ -1,0 +1,3 @@
+COMPONENT=SensorC
+
+include $(MAKERULES)
